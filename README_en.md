@@ -6,7 +6,7 @@
 * Basic image	:alpine
 * Java version:openjdk1.7
 * Installation mode : apk add openjdk7
-* Software path /usr/lib/jvm/java-8-openjdk
+* Software path /usr/lib/jvm/java-7-openjdk
 
 ### Main purpose ###
 
