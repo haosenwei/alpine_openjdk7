@@ -2,12 +2,12 @@
 
 [English](https://github.com/haosenwei/alpine_openjdk7/blob/master/README_en.md)
 
-java环境的基础镜像
+* java环境的基础镜像
 
-底层是alpine镜像
-java版本:openjdk1.7
-安装方式 apk add openjdk7
-软件路径 /usr/lib/jvm/java-7-openjdk
+* 底层是alpine镜像
+* java版本:openjdk1.7
+* 安装方式 apk add openjdk7
+* 软件路径 /usr/lib/jvm/java-7-openjdk
 
 ### 主要目的 ###
 

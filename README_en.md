@@ -2,11 +2,11 @@
 
 [中文](https://github.com/haosenwei/alpine_openjdk7)
 
-The basic image of Java environment
-Basic image	:alpine
-Java version:openjdk1.7
-Installation mode : apk add openjdk7
-Software path /usr/lib/jvm/java-8-openjdk
+* The basic image of Java environment
+* Basic image	:alpine
+* Java version:openjdk1.7
+* Installation mode : apk add openjdk7
+* Software path /usr/lib/jvm/java-8-openjdk
 
 ### Main purpose ###
 
